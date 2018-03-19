@@ -14,6 +14,7 @@
 		C54494D620600B2100D84D65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C54494D420600B2100D84D65 /* LaunchScreen.storyboard */; };
 		C54494E120600B2100D84D65 /* InterviewDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54494E020600B2100D84D65 /* InterviewDemoTests.swift */; };
 		C54494EC20600B2100D84D65 /* InterviewDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54494EB20600B2100D84D65 /* InterviewDemoUITests.swift */; };
+		C54494FA20600B4100D84D65 /* Interview.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54494F920600B4100D84D65 /* Interview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C54494E720600B2100D84D65 /* InterviewDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InterviewDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C54494EB20600B2100D84D65 /* InterviewDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterviewDemoUITests.swift; sourceTree = "<group>"; };
 		C54494ED20600B2100D84D65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C54494F920600B4100D84D65 /* Interview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				C54494CB20600B2100D84D65 /* AppDelegate.swift */,
 				C54494CD20600B2100D84D65 /* ViewController.swift */,
+				C54494F920600B4100D84D65 /* Interview.swift */,
 				C54494CF20600B2100D84D65 /* Main.storyboard */,
 				C54494D220600B2100D84D65 /* Assets.xcassets */,
 				C54494D420600B2100D84D65 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				C54494CE20600B2100D84D65 /* ViewController.swift in Sources */,
 				C54494CC20600B2100D84D65 /* AppDelegate.swift in Sources */,
+				C54494FA20600B4100D84D65 /* Interview.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
